@@ -1,6 +1,6 @@
 # SAE.Mobile 
 
-Auteurs : Lenny DE NARDI Thomas FAUCHER
+Auteurs : Lenny DE NARDI & Thomas FAUCHER
 
 ## Prérequis
 
@@ -40,6 +40,22 @@ Si vous n'avez pas d'appareil Android à portée de main, vous pouvez utiliser l
 1.  Cliquez sur le bouton "Run" dans la barre d'outils pour lancer l'application.
 
 1.  L'application sera compilée et installée sur l'appareil sélectionné, et vous pourrez la tester.
+
+### Fonctionnalités
+
+1.    Authentification d'une personne
+1.    Connexion
+1.    Déconnexion
+1.    Navbar affichant le prénom de l'utilisateur connecté
+1.    Voir tous les articles
+1.    Créer un article
+1.    Afficher un article détaillé
+1.    Ajouter en favoris
+1.    Voir les favoris
+1.    Ajouter des articles au panier
+1.    Voir le panier
+1.    Ajouter/Enlever des quantités d'articles dans le panier
+1.    Supprimer un article dans le panier
 
 ### Utilisation 
 
